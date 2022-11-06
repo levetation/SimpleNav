@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(26, 26, 26);
+}
+
+.dropdown-menu{
+    background-color: rgb(46, 46, 46);
+}
+
+.nav-link:hover{
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+}
+
+.navbar-brand:hover{
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+
+}
+
+.dropdown-item{
+    text-decoration: none;
+    color: white;
+}
